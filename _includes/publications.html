@@ -19,16 +19,16 @@ author_profile: true
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      {% include archive-single.html %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
-      {% endunless %}     
+      {% endunless %}
+      {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}   
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 
