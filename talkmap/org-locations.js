@@ -10,6 +10,11 @@ var addressPoints = [
     -122.272863
   ],
   [
+    "On interior layer for the Burgers equations on R<br />2018 Canadian Mathematical Society winter meeting; Vancouver, Canada",
+    49.2608724,
+    -123.113952
+  ],
+  [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
