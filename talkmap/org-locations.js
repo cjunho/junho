@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "On boundary layer for the Burgers equations in a bounded domain<br />SIAM Conference  on Applications of Dynamical Systems; Snowbird, Utah, USA",
-    40.5807546,
-    -111.6572955
+    "On boundary layer for the Burgers equations in a bounded domain<br />SIAM Conference  on Applications of Dynamical Systems; Salt Lake City, Utah, USA",
+    40.7596198,
+    -111.886797
   ],
   [
     "On interior layer for the Burgers equations on R<br />2018 Canadian Mathematical Society winter meeting; Vancouver, Canada",
