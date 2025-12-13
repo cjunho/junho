@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at mathematical science department, Korea Advanced Institute of Science and Technology.
+I am a postdoctoral researcher at mathematical science department, Korea Advanced Institute of Science and Technology (KAIST).
 
-Eureka moment. That is one of the fundamental motivations for studying mathematics. Specifically, I believe that we can encounter eureka moments by identifying unknown solutions of partial differential equations (PDEs) from known data. Accordingly, my research topics are: 1) machine learning methodology for fast and general-purpose PDE solvers; and 2) the mathematical modeling and simulation of ocean wave dynamics.
+Eureka moment. That is one of the fundamental motivations for studying mathematics. Specifically, I believe that we can encounter eureka moments by identifying unknown solutions of partial differential equations (PDEs) from known data. Accordingly, my research topics are: 1) machine learning methodology for fast and general-purpose PDE solvers; and 2) the mathematical modeling and simulation of ocean wave dynamics. [qwe] (https://academicpages.github.io/files/paper3.pdf)
 
 Machine learning methodology for fast and general-purpose PDE solvers
 ======
