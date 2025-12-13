@@ -11,8 +11,13 @@ I am a postdoctoral researcher at mathematical science department, Korea Advance
 
 Eureka moment. That is one of the fundamental motivations for studying mathematics. Specifically, I believe that we can encounter eureka moments by identifying unknown solutions of partial differential equations (PDEs) from known data. Accordingly, my research topics are: 1) machine learning methodology for fast and general-purpose PDE solvers; and 2) the mathematical modeling and simulation of ocean wave dynamics.
 
+Machine learning methodology for fast and general-purpose PDE solvers
+======
 My first research topic is dedicated to developing unsupervised operator learning networks for generating the rapid and accurate solution of parametric PDEs, including the 3D Navier-Stokes equations (see Sec.\ref{network}). Once trained by the structure of a target PDE, rather than by reference solutions to the PDE, the operator learning networks are capable of assigning the corresponding solutions to given PDE data in nearly real-time. Accordingly, this capability is useful for generating massive datasets to train physical artificial intelligences within a digital twin environment. Furthermore, this framework allows for real-time ensemble computing across various scenarios, enabling efficient, probabilistic forecasting in weather and climate modeling. 
 
+
+The mathematical modeling and simulation of extreme ocean-wave dynamics 
+======
 The second topic involves the mathematical modeling and simulation of ocean wave dynamics, specifically focusing on highly non-linear phenomena like rogue waves (see Sec.\ref{rogue}). Building upon the Euler equations, I have introduced approximate PDE hierarchy and performed simulations using the approximate PDEs to realize rogue wave dynamics. This computational work is expected to serves as a key clue for justifying the relations among ocean wave models, and constructing robust, real-time forecasting and warning systems.
 
 
