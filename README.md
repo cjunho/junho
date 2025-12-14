@@ -2,3 +2,5 @@
 
 2. link -->_includes/archive-single.html
         -->_publications/
+
+3. about me--> _pages/about.md
